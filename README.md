@@ -3,4 +3,5 @@
 ## Author: Mohammad Azim
 
 ### Links and Resources
-- [series](https://github.com/Mohammad99Azim/math-series/blob/main/series.py)
+- [Code](https://github.com/Mohammad99Azim/math-series/blob/main/series.py)
+- [Tests](https://github.com/Mohammad99Azim/math-series/blob/main/test_series.py)
